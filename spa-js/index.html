@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Javascript Starter Kit</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header>
+      <h2>SDK ID Magalu JS Playground</h2>
+      <div class="buttons">
+        <button id="login-contained-48">Entrar com ID Magalu</button>
+        <button id="redirectCallback">RedirectCallback</button>
+        <button id="getToken">GetToken</button>
+        <button id="getUser">GetUser</button>
+        <button id="logout">Logout</button>
+      </div>
+    </header>
+    <section>
+      <div>
+        <b>Is authenticated:</b>
+        <span id="isAuthenticated-value">false</span>
+      </div>
+
+      <div id="access-token" class="card" style="display: none">
+        <div class="card-header"><b>Access Token</b></div>
+        <div class="card-body"></div>
+      </div>
+
+      <div id="user-information" class="card" style="display: none">
+        <div class="card-header"><b>User Information</b></div>
+        <div class="card-body"></div>
+      </div>
+    </section>
+
+    <script type="module" src="/src/main.ts"></script>
+    <script src="/src/buttons.js" async></script>
+  </body>
+</html>
