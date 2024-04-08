@@ -5,7 +5,6 @@
   
   <p align="center">
     <a href="https://magazine.atlassian.net/wiki/spaces/CLOUD/pages/3204939950/SDK+PKCE+ID+Magalu" target="_blank">Documentation</a> •
-    <a href="https://gitlab.luizalabs.com/luizalabs/autoseg/front/sdk-idmagalu-app-example" target="_blank">React SPA Starter Kit</a> •
     <a href="#suporte">Support</a>
   </p>
 </div>
