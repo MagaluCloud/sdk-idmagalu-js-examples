@@ -21,6 +21,10 @@ Created for SPA (Single-page application) projects.
 npm install
 ```
 
+Before starting the project, add the necessary information to perform the authentication flow in the `/src/main.ts` file
+
+Fill in the _client_id_ and _redirect_uri_ properties.
+
 ### Start project
 
 ```shell
