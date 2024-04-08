@@ -13,6 +13,20 @@
 
 Created for SPA (Single-page application) projects.
 
+## How to start this project
+
+### Install dependencies
+
+```shell
+npm install
+```
+
+### Start project
+
+```shell
+npm dev
+```
+
 ## Getting Started
 
 #### Instalation
