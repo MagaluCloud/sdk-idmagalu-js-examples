@@ -7,7 +7,7 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <AuthProvider
-      clientId="UrdgxWTGxJIqkfq92S3cRy3i5Kh2SD9aWLSXaIbxIP4"
+      clientId="YOUR_CLIENT_ID"
       redirectUri="http://localhost:3000"
       getTokenSilently={true}
       useRefreshTokens={true}
