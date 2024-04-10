@@ -1,7 +1,7 @@
 import createClient from "@magalucloud/sdk-idmagalu-js";
 
 const clientIDMagalu = await createClient({
-  client_id: "UrdgxWTGxJIqkfq92S3cRy3i5Kh2SD9aWLSXaIbxIP4",
+  client_id: "YOUR_CLIENT_ID",
   redirect_uri: "http://localhost:3000",
   useRefreshTokens: true,
 });
