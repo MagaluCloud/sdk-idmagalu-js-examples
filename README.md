@@ -1,5 +1,5 @@
 <div  align="center">
-  <img  src="image/logo.png"  alt="Logo">
+  <img  src="https://raw.githubusercontent.com/andrecoliveira/andrecoliveira.github.io/master/dist/images/logo.png"  alt="Logo">
 
   <h4 align="center">This guide provides an introduction to how to use the SDK.</h4>
   
