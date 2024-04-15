@@ -15,11 +15,11 @@ Created for SPA (Single-page application) projects.
 
 ## First steps
 
-1. Acesse o portal [ID Magalu](https://id.magalu.com/login) e crie sua conta
-2. Baixe o [CLI da Magalu Cloud](https://docs.magalu.cloud/docs/cli-mgc/overview/) para criar sua aplicação
-3. Crie sua aplicação no MGC CLI através deste [guia](https://docs.magalu.cloud/docs/cli-mgc/how-to/create-app)
-4. Baixe o [ID Magalu SDK](https://docs.magalu.cloud/docs/id-magalu/how-to/id-magalu-sdks) para iniciar a implementação
-5. Adicione o botão ID Magalu
+1. Access the [ID Magalu](https://id.magalu.com/login) portal and create your account
+2. Download the [Magalu Cloud CLI](https://docs.magalu.cloud/docs/cli-mgc/overview/) to create your application
+3. Create your application in MGC CLI using this [guide](https://docs.magalu.cloud/docs/cli-mgc/how-to/create-app)
+4. Download the [ID Magalu SDK](https://docs.magalu.cloud/docs/id-magalu/how-to/id-magalu-sdks) to start implementation
+5. Add the ID Magalu button
 
 ## How to start this project
 
