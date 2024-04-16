@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## ID Magalu SDK for React
+## ID Magalu SDK
 
 Created for SPA (Single-page application) projects.
 
