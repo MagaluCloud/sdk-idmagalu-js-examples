@@ -48,7 +48,7 @@ Add the ID Magalu SDK as a dependency in your project.
 Use [npm](https://npmjs.org/) in your project directory and run the following command:
 
 ```shell
-npm i @magalucloud/auth-pkce-js
+npm i npm i @magalucloud/sdk-idmagalu-js
 ```
 
 #### Configure the SDK
